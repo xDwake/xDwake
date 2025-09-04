@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gabruek and I'm a Software Engineering Student.
+<h2 align="left">Hi 👋! My name is Gabriel and I'm a Software Engineering Student.
 
 ###
 
